@@ -17,10 +17,14 @@ Qualquer pessoa que deseja melhorar seus hábitos de hidratação.
 * Registrar quantidade de água consumida
 * Visualizar total diário
 * Interface simples no terminal
+* Consulta de temperatura atual via API pública
+* Recomendação de hidratação em dias quentes
 
 ## Tecnologias
 
 * Python
+* Requests
+* API wttr.in
 
 ## Instalação
 
