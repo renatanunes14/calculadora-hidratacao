@@ -37,6 +37,9 @@ pip install -r requirements.txt
 ```bash
 python src/app.py
 ```
+## Execução Online
+
+Projeto CLI executado localmente via terminal Python.
 
 ## Testes
 
